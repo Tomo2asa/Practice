@@ -3,3 +3,6 @@
 docker build . -t practice1
 docker run --rm -d  -p 8080:8080 practice1:latest
 ```
+
+##課題２
+https://heroku-wantprac.herokuapp.com
